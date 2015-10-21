@@ -9,7 +9,8 @@ public class AppTest {
 
   @Test
   public void xxTest() {
-	fail("explicit failure");
+	//fail("explicit failure");
+	assertEquals("Hay un grave problema",1,0);
   }
 
 } 
