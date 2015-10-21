@@ -1,7 +1,8 @@
 deployment:
   staging:
     branch: master
-    heroku: circlecidemo
+    heroku: 
+	appname: circlecidemo
 
 test:
   post:
